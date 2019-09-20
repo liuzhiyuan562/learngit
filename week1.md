@@ -3,4 +3,4 @@
 ### 123
 ### #1234
 ### 今天学会了远程仓库
-Creating a new branch is quick
+Creating a new branch is quick and simple
