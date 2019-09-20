@@ -3,16 +3,20 @@
 ### 123
 ### #1234
 ### 今天学会了远程仓库
-<<<<<<< HEAD
+ HEAD
 Creating a new branch is quick and simple
-=======
+
 Creating a new branch is quick and simple
->>>>>>> featurel
-今天要去开会。
-<<<<<<< Updated upstream
+ featurel
+**今天要去开会。**
+ Updated upstream
+ Updated upstream
 bug
-=======
+
 bug分支
 
->>>>>>> Stashed changes
+ Stashed
+bug分支
+
+ Stashed changes
 
