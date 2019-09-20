@@ -9,5 +9,10 @@ Creating a new branch is quick and simple
 Creating a new branch is quick and simple
 >>>>>>> featurel
 今天要去开会。
+<<<<<<< Updated upstream
 bug
+=======
+bug分支
+
+>>>>>>> Stashed changes
 
