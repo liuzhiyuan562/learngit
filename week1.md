@@ -19,4 +19,9 @@ bug分支
 bug分支
 
  Stashed changes
+ #include <studio.h>
+ int main()
+ {
+     printf("hello world\n");
+ }
 
