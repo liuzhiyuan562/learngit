@@ -19,9 +19,11 @@ bug分支
 bug分支
 
  Stashed changes
- #include <studio.h>
+ #include <studio.h)
  int main()
  {
      printf("hello world\n");
  }
-
+%d  说明后面有一个整数要输出在这个位置上
+printf("%d\n",23+43)
+getchar()
