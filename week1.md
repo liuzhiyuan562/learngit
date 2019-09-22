@@ -47,6 +47,33 @@ int main()
 	
 	int change=price1-price;
 	printf("找您%d元。\n",change) ;
-	
+	getchar();
+	getchar();
 	return 0;
 }
+变量定义的一般形式就是：类型名称+变量名称
+如int price;    int amount;   int price,amount;
+=是赋值运算符，有运算符的式子叫表达式
+a=b 将b的值赋给a
+当赋值发生在定义变量的时候，就是变量的初始化
+变量初始化：类型名称 变量名称=初始值
+如int price=0,amount=100;
+printf 用于输出   scanf  用于输入  **一定要输入，并且后面要有&**
+int price=必须是0么
+固定不变的数，是常数。直接写在程序里，我们称作 直接量
+定义一个常量：const intAMOUNT=   常量一般用大写  const （不变的）
+int a;
+int b;
+
+printf("请输入两个整数”)
+scanf("%d %d", &s,&b);
+printf("%d+%d=%d\n",a,b,a+b);
+变量名字是一种”标识符“，    标识符只能由字母、数字和下划线组成，数字不可以出现在第一个位置上，C语言的关键字（有的地方叫它们保留字）不可以用作标识符。
+
+**给定以下代码段：
+int a,b=0;
+则a的初始值是0       错**
+**应该是  int a=0,b=0**
+
+
+
